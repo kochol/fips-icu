@@ -1,0 +1,4 @@
+---
+exports:
+    modules:
+        icu: fips-files/icu
